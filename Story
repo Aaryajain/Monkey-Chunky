@@ -1,1 +1,3 @@
 In monkey chunk app we help people be better in the way they pronounce certain words.
+this app will also help to better the understanding of people regarding the phoemes that they were previously 
+a stranger to.
